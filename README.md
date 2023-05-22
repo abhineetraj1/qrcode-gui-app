@@ -1,6 +1,6 @@
 # GUI QRcode generator
 
-<img src="https://raw.github.com/abhineetraj1/qrcode-gui-app/master/images/screenshot.png">
+<img src="https://raw.githubusercontent.com/abhineetraj1/qrcode-gui-app/main/screenshot.png">
 
 This application converts text to qrcode, in specified background and QRcode colour.
 
